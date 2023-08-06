@@ -1,5 +1,8 @@
 # Background and Context
 
+This demo is for one of weekend build and learn which publish in Medium:
+[A Simple Demo To Analyze 32GB AML Data With DuckDB](https://medium.com/better-programming/a-simple-demo-to-analyze-32gb-aml-data-with-duckdb-9f493c4e45f9)
+
 This is a demo and test the tech stacks as follow:
 
 1. DuckDB
