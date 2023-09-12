@@ -1,0 +1,11 @@
+{
+    "malloy.connections": [
+        {
+            "name": "duckdb",
+            "backend": "duckdb",
+            "id": "5bcd773f-98f0-4352-9a9d-b6e0071db14c",
+            "isDefault": true,
+            "workingDirectory": "/Users/huangwh/python/duckdb-aml-demo/db/ibm_aml.db"
+        }
+    ]
+}
